@@ -13,3 +13,14 @@ changeColor.onclick = function(event) {
     });
   });
 };
+
+// this is single-line a comment
+
+
+/*
+this
+is
+a 
+multi line
+comment
+*/
